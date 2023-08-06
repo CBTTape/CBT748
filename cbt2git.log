@@ -1,0 +1,18 @@
+2023-08-06 06:52:11.348496 - Initialized conversion of CBT748
+2023-08-06 06:52:11.452572 - Received CBT.V505.FILE748.PDS from FILE748.XMI 
+2023-08-06 06:52:11.455092 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE748.PDS, moved to PDS/$$$#DATE
+2023-08-06 06:52:11.456252 - Found $$MAIL.txt (text/plain) in CBT.V505.FILE748.PDS, moved to PDS/$$MAIL
+2023-08-06 06:52:11.457370 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE748.PDS, moved to PDS/$$NOTE1
+2023-08-06 06:52:11.457385 - Found $$NOTE2.bin containing application/octet-stream, moved to PDS/$$NOTE2
+2023-08-06 06:52:11.459394 - Found $$README.txt (text/plain) in CBT.V505.FILE748.PDS, moved to PDS/$$README
+2023-08-06 06:52:11.460347 - Found @FILE748.txt (text/plain) in CBT.V505.FILE748.PDS, moved to PDS/@FILE748
+2023-08-06 06:52:11.461321 - Found CALLDECA.rexx (text/plain) in CBT.V505.FILE748.PDS, moved to PDS/CALLDECA
+2023-08-06 06:52:11.462371 - Found CALLDECR.rexx (text/plain) in CBT.V505.FILE748.PDS, moved to PDS/CALLDECR
+2023-08-06 06:52:11.463383 - Found CALLSEND.rexx (text/plain) in CBT.V505.FILE748.PDS, moved to PDS/CALLSEND
+2023-08-06 06:52:11.464323 - Found DECODE64.txt (text/plain) in CBT.V505.FILE748.PDS, moved to PDS/DECODE64
+2023-08-06 06:52:11.465256 - Found DECODREX.rexx (text/plain) in CBT.V505.FILE748.PDS, moved to PDS/DECODREX
+2023-08-06 06:52:11.466376 - Found MAILPARM.rexx (text/plain) in CBT.V505.FILE748.PDS, moved to PDS/MAILPARM
+2023-08-06 06:52:11.467365 - Found MAILRECV.rexx (text/plain) in CBT.V505.FILE748.PDS, moved to PDS/MAILRECV
+2023-08-06 06:52:11.468369 - Found MAILSEND.rexx (text/plain) in CBT.V505.FILE748.PDS, moved to PDS/MAILSEND
+2023-08-06 06:52:11.469420 - Found PROCMAIL.txt (text/plain) in CBT.V505.FILE748.PDS, moved to PDS/PROCMAIL
+2023-08-06 06:52:11.470425 - Found SENDMAIL.jcl (text/plain) in CBT.V505.FILE748.PDS, moved to PDS/SENDMAIL
